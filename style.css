@@ -326,6 +326,10 @@ main{
     background-image: url(assets/project5.png);
 }
 
+.projectP{
+    background-image: url(assets/projectP.png);
+}
+
 .Project1 .pname{
     color: var(--ter-tex-color);
     font-size: 12px;
